@@ -1,0 +1,17 @@
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\WebCamera.exe.config
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\WebCamera.exe
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\WebCamera.pdb
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\WebCamera.xml
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.dll
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.Video.DirectShow.dll
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.Video.dll
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.xml
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.Video.xml
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\bin\Debug\AForge.Video.DirectShow.xml
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.vbprojResolveAssemblyReference.cache
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.Resources.resources
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.vbproj.GenerateResource.Cache
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.exe
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.xml
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.pdb
+E:\Visual Basic2015.Net Program\WebCamera\WebCamera\obj\Debug\WebCamera.frmWebCamera.resources
